@@ -1,0 +1,8 @@
+# Ocultar la base de datos local
+*.db
+finanzas_personales.db
+
+# Ocultar archivos temporales de Python y entornos virtuales
+venv/
+__pycache__/
+.streamlit/
