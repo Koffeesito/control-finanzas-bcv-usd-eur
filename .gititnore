@@ -6,3 +6,4 @@ finanzas_personales.db
 venv/
 __pycache__/
 .streamlit/
+*.db
